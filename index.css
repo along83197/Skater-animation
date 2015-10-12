@@ -1,0 +1,59 @@
+body {
+  background-image: url(/Users/anthonylong/desktop/coding/assignments/peralta/assets/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.subscribe p {
+  color: white;
+  text-align: center;
+  /*margin-left: 8%;*/
+  font-size: 15px;
+
+}
+
+.toplinks {
+  text-align: right;
+  margin-top: -5%;
+  margin-bottom: 20px
+
+
+}
+
+.pages {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  margin-bottom: 20px;
+
+
+}
+.pages a  {
+  padding: 10px;
+  color: white;
+  background-color: red;
+  margin: 0 28px;
+
+
+}
+
+
+.centerpic  {
+  width: 100%;
+  height: 200px;
+  background-image:url("/Users/anthonylong/desktop/coding/assignments/peralta/assets/camera.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border: solid white 10px;
+}
+.centerpic img {
+  width: 100%;
+  height: 100%;
+}
